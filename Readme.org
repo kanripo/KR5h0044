@@ -1,25 +1,3 @@
-#+TITLE: 易林 / HFL
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-09-11 03:55:06.520296
-* 版本
- |       HFL|【正統道藏・涵芬樓版】|
- |      SBCK|【四部叢刊】  |
- |      ZTDZ|【正統道藏・三家本】|
-目次
- - [[file:KR5h0044_000.txt][易林 0]]
- - [[file:KR5h0044_001.txt][易林 1]]
- - [[file:KR5h0044_002.txt][易林 2]]
- - [[file:KR5h0044_003.txt][易林 3]]
- - [[file:KR5h0044_004.txt][易林 4]]
- - [[file:KR5h0044_005.txt][易林 5]]
- - [[file:KR5h0044_006.txt][易林 6]]
- - [[file:KR5h0044_007.txt][易林 7]]
- - [[file:KR5h0044_008.txt][易林 8]]
- - [[file:KR5h0044_009.txt][易林 9]]
- - [[file:KR5h0044_010.txt][易林 10]]
- - [[file:KR5h0044_011.txt][易林 11]]
- - [[file:KR5h0044_012.txt][易林 12]]
- - [[file:KR5h0044_013.txt][易林 13]]
- - [[file:KR5h0044_014.txt][易林 14]]
- - [[file:KR5h0044_015.txt][易林 15]]
- - [[file:KR5h0044_016.txt][易林 16]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
